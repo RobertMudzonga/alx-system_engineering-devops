@@ -1,2 +1,1 @@
-#!/bin/bash
-hameno if it will work
+This is my _first_ project!
