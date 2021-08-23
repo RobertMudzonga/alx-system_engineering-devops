@@ -1,0 +1,1 @@
+today we are doing a project on shell navigation focusing on int files, variables and expansions
